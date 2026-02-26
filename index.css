@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://99px.ru/sstorage/53/2018/08/tmb_234538_187585.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.all {
+    width: 350px;
+    background-color: rgba(181, 132, 112, 0.767);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    backdrop-filter: blur(5px);
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
